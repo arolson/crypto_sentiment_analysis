@@ -1,0 +1,2 @@
+class PyRateLimitException(Exception):
+    pass

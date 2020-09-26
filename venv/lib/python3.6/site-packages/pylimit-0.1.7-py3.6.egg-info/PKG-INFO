@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: pylimit
+Version: 0.1.7
+Summary: A distributed rate limiting library for python using leaky bucket algorithm and Redis
+Home-page: https://github.com/biplap-sarkar/pylimit
+Author: Biplap Sarkar
+Author-email: biplap.sarkar@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/biplap-sarkar/pylimit/archive/v0.1.7.tar.gz
+Description: UNKNOWN
+Keywords: rate limiting,throttle,redis
+Platform: UNKNOWN
